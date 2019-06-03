@@ -2,7 +2,7 @@
   "name": "schema-typescript-ast",
   "version": "1.0.0",
   "description": "GraphQL Code Generator plugin for generating a .ts file from a given schema",
-  "repository": "git@github.com:dotansimha/graphql-code-generator.git",
+  "repository": "git@github.com:emolr/schema-typescript-ast.git",
   "license": "MIT",
   "scripts": {
     "build": "tsc -m esnext --outDir dist/esnext && tsc -m commonjs --outDir dist/commonjs",
